@@ -1,0 +1,14 @@
+body{margin:0 }
+html,body{height: 100%;}
+.container{height: 100%; display: flex; flex-direction: column;gap: 5px;background-color: purple;}
+
+.row-1{flex: 20%;background-color: pink;}
+.row-2{flex:80%;flex-direction: row;display: flex;gap: 5px;}
+.column{flex:50%}
+.column-1{display: flex;flex-direction: column;gap: 5px;}
+.box-1{flex: 70%;background-color: orange;}
+.box-2{flex: 30%;background-color: rgb(130, 88, 168);}
+.column-2{background-color: rgb(162, 162, 221);}
+
+
+

@@ -1,0 +1,12 @@
+body{background-color: whitesmoke;}
+.container{background-color: gray;width: 50%; border-radius:10px;margin: auto; text-align: center;padding: 25px; }
+.container li{list-style-type: none;}
+
+img{width: 100%;border-radius: 10px; }
+iframe{width: 100%;}
+.buton{height: 40px;background-color: black;cursor: pointer;padding-top: 10px;}
+
+
+
+
+        
